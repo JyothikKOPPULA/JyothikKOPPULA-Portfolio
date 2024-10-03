@@ -8,7 +8,7 @@ const ResumeSection = () => {
     visible: { opacity: 1, y: 0, transition: { duration: 0.6 } },
   };
 
-  const resumeLink = "https://drive.google.com/file/d/1ZTov-gl7RtqngJrbkxpuFMM0JtLG6grn/view?usp=sharing"; // Define your resume link here
+  const resumeLink = "https://drive.google.com/file/d/19oiKixDkHwTaIrHw5sVgrzvkb69S9TDn/view?usp=sharing"; // Define your resume link here
 
   return (
     <section id="resume" className="py-8">
