@@ -56,7 +56,7 @@ export const PROJECTS = [
     description:
       "Created a responsive personal portfolio website with Tailwind CSS for effects and animations, enhanced with Framer Motion, featuring a contact form and a Project Gallery for viewing projects and accessing GitHub source code.",
     image: projectImage2,
-    githubLink: "https://github.com/abhhirramVeedhi/WatchlistHelper.git",
+    githubLink: "https://github.com/JyothikKOPPULA/JyothikKOPPULA-Portfolio",
   },
   {
     id: 3,
